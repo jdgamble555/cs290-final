@@ -1,0 +1,34 @@
+/* 
+    Created on : Jun 2, 2015, 7:20:34 PM
+    Author     : Jonathan Gamble
+*/
+
+.error {
+    color: red;
+}
+  
+body {
+    font-size: 10px;
+    margin: 0px; 
+    padding: 0px;
+    font-family: "Lucida Console", "Monaco", "DejaVu Sans Mono", monospace;
+    color: #000; 
+    text-align: left; 
+}
+  
+a:link, a:visited, a:active { 
+    color: #009999; 
+} 
+  
+a:hover { 
+    color: #000; 
+}
+
+#myWrapper {
+    width: 965px;
+    margin: 0 auto;
+}
+
+/* BASIC CSS STYLING TO MAKE IT LOOK PRETTIER */
+table { margin: 5em; }
+td, th { padding: 2px 4px; }
